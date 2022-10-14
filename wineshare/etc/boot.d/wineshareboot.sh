@@ -7,6 +7,6 @@ if [ -f $WINEDIRECTOR ]; then
 else
 	mkdir /opt/windows
 	chmod 777 /opt/windows
-	WINEPREFIX="/opt/windows" wineboot -i &
-	winetricks dotnet45 &
+	#WINEPREFIX="/opt/windows" wineboot -i &
+	#winetricks dotnet45 &
 fi
