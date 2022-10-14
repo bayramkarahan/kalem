@@ -1,0 +1,11 @@
+Package: wineshare
+Version: 1.0
+Architecture: all
+Depends: 
+Pre-Depends:
+Recommends: 
+Maintainer: Bayram Karahan [bayramk@gmail.com]
+Conflicts: 
+Replaces: 
+Provides: wineshare
+Description: wineshare eklentisi
