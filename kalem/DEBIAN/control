@@ -1,4 +1,4 @@
-Package: wineshare
+Package: kalem
 Version: 1.0
 Architecture: all
 Depends: 
@@ -7,5 +7,5 @@ Recommends:
 Maintainer: Bayram Karahan [bayramk@gmail.com]
 Conflicts: 
 Replaces: 
-Provides: wineshare
-Description: wineshare eklentisi
+Provides: kalem
+Description: kalem eklentisi

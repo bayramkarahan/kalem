@@ -1,7 +1,0 @@
-#bayram KARAHAN bayramk@gmail.com
-
-[Desktop Entry]
-Exec=sh -c "/usr/bin/wineshare.sh"
-Type=Application
-Name[tr_TR.UTF-8]=wineshare.desktop
-Name[tr_TR]=wineshare.desktop

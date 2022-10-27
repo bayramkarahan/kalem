@@ -1,5 +1,0 @@
-#!/bin/sh
-chown root:root /usr/bin/winechown
-chmod 777 /usr/bin/winechown
-chmod a+s /usr/bin/winechown
-

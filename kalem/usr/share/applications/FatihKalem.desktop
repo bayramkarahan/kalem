@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Icon=FatihKalem
+Type=Application
+Exec=sh -c "pkill kalem.exe;nohup wine /usr/bin/kalem.exe&"
+Name=FatihKalem
+GenericName=FatihKalem
+Name[tr_TR.UTF-8]=FatihKalem
+Categories=Qt;Utility;
+Keywords=fatihkalem;kalem;
